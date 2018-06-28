@@ -43,6 +43,7 @@ text-align: center;
 transform: rotate(0deg);
 }
 h2 {
+    text-shadow: 100px 10px 50px #000;
 margin: 0;
 transform: rotate(-45deg);
 text-shadow: 0 0 5px #01579b;
